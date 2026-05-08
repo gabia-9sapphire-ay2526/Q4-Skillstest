@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Quarter 4/Q4-SW1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Q4-Skillstest"
+	}
+}

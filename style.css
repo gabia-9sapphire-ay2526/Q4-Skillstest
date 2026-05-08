@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(195, 206, 226);
+}
+
+h3 {
+    color: #0a3a93;
+}
+
+.container {
+    background-color: white;
+}
+
+.form-control {
+    border: 2px solid #0a3a93;
+}
+
+b {
+  font-size: 38px;
+}
+
+.btn-info {
+    background-color: #0a3a93;
+    color: white;
+}
+
+.btn-light {
+    border: 2px solid #0a3a93;
+}
+
+.nav {
+    background-color: #212529;
+    color: white;
+}
